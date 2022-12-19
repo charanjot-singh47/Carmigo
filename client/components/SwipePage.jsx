@@ -88,7 +88,7 @@ function SwipePage() {
     {
       name: 'Elvin',
       url: '../../server/public/images/elvin.jpg',
-      details: 'Toyota Crown - PinkSlips?',
+      details: 'Toyota Crown - PinkSlips lol?',
     },
   ]
   const characters = db
